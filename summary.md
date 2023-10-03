@@ -1,5 +1,5 @@
 # Better Ajera interaction portal
-[Ajera](https://ajera.com/) is a project database used by our company, [KBJW Group](https://kbjwgroup.com/).
+[Ajera](https://ajera.com/) is a project database [for architecture/engineering companies](https://www.deltek.com/en/erp/ajera) used by our company, [KBJW Group](https://kbjwgroup.com/).
 
 ## Who are we, who am I
 
