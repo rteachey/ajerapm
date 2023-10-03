@@ -39,7 +39,7 @@ Make this better!
 - **Very python:** Cloud based (Azure?) python script that periodically (daily?) downloads changes to the database... to a copy somewhere? (...or maybe we don't even need a copy?); then using the copy (or just the remote?) a (dumb) Excel workbook is created for each PM that has only their projects in it. They enter new weekly info, save. Then a script is run to use those workbooks to update the copy, and then a script runs to update the remote database
 -- upsides: python!
 -- downsides: very custom? running afoul of "use familiar, widespread technology"?
-- **Microsofty:** a ***single*** Excel sheet with a Power Query script that pulls down a table using the API; each PM can simultaneously [use a custom view](https://www.youtube.com/watch?v=aysKo3a_gHo&t=96s) while looking at the same file as everyone else, and update their phases. Then a script runs to update the remote with the new info in the .
+- **Microsofty:** a ***single*** Excel sheet with a Power Query script that pulls down a table using the API; each PM can simultaneously [use a custom view](https://www.youtube.com/watch?v=aysKo3a_gHo&t=96s) while looking at the same file as everyone else, and update their phases. Then a script runs to update the remote with the new info in the updated columns.
 -- upsides: **A.** seems like business development type people are probably a lot more comfortable/likely to be familiar with MS Power Query...? Maybe? **B.** no python: no environments, no 3rd party versioning to worry about, don't have to ever worry about hiring an expensive developer to fix out problems
 -- downsides: no python :( 
 - Ditch Ajera! (unlikely unless very very compelling)
